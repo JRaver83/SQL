@@ -1,7 +1,7 @@
 >[!Tip]
 >Read this first
 
-# Joshua Raver's SQL Portfolio.
+# Josh Raver's SQL Portfolio.
 
 ## Welcome to my SQL portfolio! This is used as a code repository that contains examples of SQL I've written.
 
